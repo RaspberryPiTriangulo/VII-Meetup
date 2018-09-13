@@ -2,9 +2,6 @@
 ## Desbravar painel de som Ford
 planos de fazer uma interface para controlar o raspberry pi atraves do painel do som
 ## Cluster de servidores web
-## Fazer acender uma lâmpada
-schematics e software para ligar e desligar uma lâmpada usando raspberry pi
-
 
 Usando um cluster do Raspberry Pi como um servidor da web
 
@@ -24,3 +21,8 @@ https://www.filipeflop.com/blog/docker-swarm-e-cluster-com-raspberry-pi/?utm_sou
 
 
 Para um cluster via hardware podemos seguiremos este artigo: http://raspberrywebserver.com/raspberrypicluster/raspberry-pi-cluster.html
+
+## Fazer acender uma lâmpada
+schematics e software para ligar e desligar uma lâmpada usando raspberry pi
+
+
