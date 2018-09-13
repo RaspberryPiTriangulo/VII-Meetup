@@ -22,6 +22,8 @@ https://www.filipeflop.com/blog/docker-swarm-e-cluster-com-raspberry-pi/?utm_sou
 
 Para um cluster via hardware podemos seguiremos este artigo: http://raspberrywebserver.com/raspberrypicluster/raspberry-pi-cluster.html
 
+https://www.mocomakers.com/building-a-raspberry-pi-cluster-with-apache-spark/
+
 ## Fazer acender uma lâmpada
 schematics e software para ligar e desligar uma lâmpada usando raspberry pi
 
